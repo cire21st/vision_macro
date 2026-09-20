@@ -17,6 +17,7 @@
 - 패키지 설치
 ```bash
   pip install pyautogui
+  pip install opencv-python
 ```
 
 ## 사용법
